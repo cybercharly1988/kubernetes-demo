@@ -1,2 +1,2 @@
 # kubernetes-demo
-files with many demo information to create lbs using minikube and kubectl
+files with many demo information to create labs using minikube and kubectl
